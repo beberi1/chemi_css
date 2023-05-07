@@ -1,0 +1,108 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+
+.mtavari_div {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    border-radius: 50%;
+    width: 700px;
+    height: 700px;
+    background-color: rgb(145, 204, 177);
+}
+
+.ekranis_gare {
+    position: absolute;
+    top: 24%;
+    width: 350px;
+    height: 300px;
+    border-radius: 30px;
+    opacity: 0.1;
+    background-color: black;
+}
+
+.ekranis_chrdil {
+    position: absolute;
+    top: 22%;
+    width: 350px;
+    height: 300px;
+    border-radius: 30px;
+    background-color: aliceblue;
+}
+
+.ekranis_shida {
+    position: absolute;
+    overflow: hidden;
+    top: 25.9%;
+    width: 300px;
+    height: 240px;
+    border-radius: 15px;
+    background-color: rgb(60, 76, 110);
+}
+
+.ekranis_shida_anarekli {
+    position: relative;
+    left: 160px;
+    width: 300px;
+    height: 240px;
+    opacity: 0.2;
+    background-color: white;
+    transform: skewX(25deg);
+}
+
+
+.ekranis_damcheri {
+    position: absolute;
+    top: 30%;
+    width: 150px;
+    height: 300px;
+    border-radius: 25px;
+    background-color: gainsboro;
+}
+
+.ekranis_damcheri_marcxena {
+    position: absolute;
+    top: 29%;
+    left: 24.5%;
+    width: 150px;
+    height: 300px;
+    border-radius: 35px;
+    background-color: rgb(145, 204, 177);
+}
+
+.ekranis_damcheri_marjvena {
+    position: absolute;
+    top: 29%;
+    left: 54%;
+    width: 150px;
+    height: 300px;
+    border-radius: 35px;
+    background-color: rgb(145, 204, 177);
+}
+
+.ekranis_dziri {
+    position: absolute;
+    top: 71%;
+    width: 150px;
+    height: 30px;
+    border-radius: 25px;
+    background-color: whitesmoke;
+}
+
+.ekranis_dziri_chrdili {
+    position: absolute;
+    top: 73%;
+    width: 150px;
+    height: 30px;
+    border-radius: 25px;
+    opacity: 0.1;
+    background-color: black;
+}
