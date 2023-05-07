@@ -1,0 +1,123 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+    box-shadow: inset 0 0 500px rgba(8, 20, 7, 0.5);
+}
+
+
+.mtavari {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(9, 1fr);
+    width: 500px;
+    height: 900px;
+}
+
+/* u imito ro ujra */
+
+.u1 {
+    grid-column: 2;
+    grid-row: 1;
+    background-color: black;
+}
+
+.u2 {
+    grid-column: 3;
+    grid-row: 1;
+    background-color: black;
+}
+
+.u3 {
+    grid-column: 4;
+    grid-row: 1;
+    background-color: black;
+}
+
+.u4 {
+    grid-column: 1;
+    grid-row: 2;
+    background-color: black;
+}
+
+.u5 {
+    grid-column: 5;
+    grid-row: 2;
+    background-color: black;
+}
+
+.u6 {
+    grid-column: 1;
+    grid-row: 3;
+    background-color: black;
+}
+
+.u7 {
+    grid-column: 5;
+    grid-row: 3;
+    background-color: black;
+}
+
+.u8 {
+    grid-column: 2;
+    grid-row: 4;
+    background-color: black;
+}
+
+.u9 {
+    grid-column: 3;
+    grid-row: 4;
+    background-color: black;
+}
+
+.u10 {
+    grid-column: 4;
+    grid-row: 4;
+    background-color: black;
+}
+
+.u11 {
+    grid-column: 3;
+    grid-row: 5;
+    background-color: black;
+}
+
+.u12 {
+    grid-column: 3;
+    grid-row: 6;
+    background-color: black;
+}
+
+.u13 {
+    grid-column: 3;
+    grid-row: 7;
+    background-color: black;
+}
+
+.u14 {
+    grid-column: 3;
+    grid-row: 8;
+    background-color: black;
+}
+
+.u15 {
+    grid-column: 3;
+    grid-row: 9;
+    background-color: black;
+}
+
+.u16 {
+    grid-column: 4;
+    grid-row: 9;
+    background-color: black;
+}
+
+.u17 {
+    grid-column: 4;
+    grid-row: 7;
+    background-color: black;
+}
