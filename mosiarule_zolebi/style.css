@@ -1,0 +1,262 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+    box-shadow: inset 0 0 500px rgba(0, 0, 0, 0.5);
+}
+
+.mtavari {
+    position: relative;
+    height: 60%;
+    width: 35%;
+    overflow: hidden;
+    background-color: royalblue;
+    box-shadow: inset 0 0 500px rgba(0, 0, 0, 0.5);
+}
+
+.xazi1 {
+    position: relative;
+    width: 100%;
+    height: 5%;
+    background-color: violet;
+    animation: chamosvla1 linear 3s infinite;
+}
+
+.xazi2 {
+    position: relative;
+    width: 100%;
+    margin-top: 8%;
+    height: 5%;
+    background-color: violet;
+    animation: chamosvla1 linear 3s infinite;
+}
+
+.xazi3 {
+    position: relative;
+    width: 100%;
+    margin-top: 8%;
+    height: 5%;
+    background-color: violet;
+    animation: chamosvla1 linear 3s infinite;
+}
+
+.xazi4 {
+    position: relative;
+    width: 100%;
+    margin-top: 8%;
+    height: 5%;
+    background-color: violet;
+    animation: chamosvla1 linear 3s infinite;
+}
+
+.xazi5 {
+    position: relative;
+    width: 100%;
+    margin-top: 8%;
+    height: 5%;
+    background-color: violet;
+    animation: chamosvla1 linear 3s infinite;
+}
+
+.xazi6 {
+    position: relative;
+    width: 100%;
+    margin-top: 8%;
+    height: 5%;
+    background-color: violet;
+    animation: chamosvla1 linear 3s infinite;
+}
+
+.xazi7 {
+    position: relative;
+    width: 100%;
+    margin-top: 8%;
+    height: 5%;
+    background-color: violet;
+    animation: chamosvla1 linear 3s infinite;
+}
+
+.xazi8 {
+    position: relative;
+    width: 100%;
+    margin-top: 8%;
+    height: 5%;
+    background-color: violet;
+    animation: chamosvla1 linear 3s infinite;
+}
+
+.xazi9 {
+    position: relative;
+    width: 100%;
+    margin-top: 8%;
+    height: 5%;
+    background-color: violet;
+    animation: chamosvla1 linear 3s infinite;
+}
+
+.xazi10 {
+    position: relative;
+    width: 100%;
+    margin-top: 8%;
+    height: 5%;
+    background-color: violet;
+    animation: chamosvla1 linear 3s infinite;
+}
+
+.xazi11 {
+    position: relative;
+    width: 100%;
+    margin-top: 8%;
+    height: 5%;
+    background-color: violet;
+    animation: chamosvla1 linear 3s infinite;
+}
+
+.xazi_1 {
+    position: absolute;
+    width: 100%;
+    margin-bottom: 8%;
+    height: 5%;
+    background-color: violet;
+    animation: chamosvla_1 linear 3s infinite;
+}
+
+.xazi_2 {
+    position: absolute;
+    width: 100%;
+    margin-bottom: 8%;
+    height: 5%;
+    background-color: violet;
+    animation: chamosvla_2 linear 3s infinite;
+}
+
+ .xazi_3 {
+    position: absolute;
+    width: 100%;
+    margin-bottom: 8%;
+    height: 5%;
+    background-color: violet;
+    animation: chamosvla_3 linear 3s infinite;
+}
+
+.xazi_4 {
+    position: absolute;
+    width: 100%;
+    margin-bottom: 8%;
+    height: 5%;
+    background-color: violet;
+    animation: chamosvla_4 linear 3s infinite;
+}
+
+.xazi_5 {
+    position: absolute;
+    width: 100%;
+    margin-bottom: 8%;
+    height: 5%;
+    background-color: violet;
+    animation: chamosvla_5 linear 3s infinite;
+}
+
+.xazi_6 {
+    position: absolute;
+    width: 100%;
+    margin-bottom: 8%;
+    height: 5%;
+    background-color: violet;
+    animation: chamosvla_6 linear 3s infinite;
+} 
+
+.xazi_7 {
+    position: absolute;
+    width: 100%;
+    margin-bottom: 8%;
+    height: 5%;
+    background-color: violet;
+    animation: chamosvla_7 linear 3s infinite;
+} 
+
+@keyframes chamosvla1 {
+    0% {
+        top: 0;
+    }
+    100% {
+        top: 100%;
+    }
+}
+
+@keyframes chamosvla_1 {
+    0% {
+        top: -14%;
+    }
+    100% {
+        top: 86%;
+    }
+}
+
+@keyframes chamosvla_2 {
+    0% {
+        top: -28%;
+    }
+    100% {
+        top: 72%;
+    }
+}
+
+@keyframes chamosvla_3 {
+    0% {
+        top: -42%;
+    }
+    100% {
+        top: 58%;
+    }
+}
+
+@keyframes chamosvla_4 {
+    0% {
+        top: -56%;
+    }
+    100% {
+        top: 44%;
+    }
+}
+
+@keyframes chamosvla_5 {
+    0% {
+        top: -70%;
+    }
+    100% {
+        top: 30%;
+    }
+}
+
+@keyframes chamosvla_6 {
+    0% {
+        top: -84%;
+    }
+    100% {
+        top: 16%;
+    }
+}
+
+@keyframes chamosvla_7 {
+    0% {
+        top: -98%;
+    }
+    100% {
+        top: 2%;
+    }
+}
+
+@keyframes chamosvla_8 {
+    0% {
+        top: -112%;
+    }
+    100% {
+        top: -12%;
+    }
+}
+
