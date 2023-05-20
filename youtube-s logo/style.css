@@ -8,6 +8,9 @@ body {
   align-items: center;
   height: 100vh;
   width: 100%;
+  margin: 0;
+  overflow: hidden;
+  box-shadow: inset 0 0 500px rgba(0, 0, 0, 0.5);
 }
 
 .tani {
@@ -20,19 +23,29 @@ body {
 .logo1 {
   position: absolute;
   overflow: hidden;
-  top: 43%;
-  left: 44.5%;
+  top: 42%;
+  left: 47.5%;
   width: 10%;
   height: 18%;
-  background-color: wheat;
+  background-color: white;
 }
 
 .logo2 {
   position: absolute;
   rotate: 30deg;
-  top: 31.7%;
-  left: 44%;
-  width: 15%;
-  height: 18%;
-  background-color: black;
+  top: -24%;
+  left: 0%;
+  width: 130%;
+  height: 60%;
+  background-color: red;
+}
+
+.logo3 {
+  position: absolute;
+  rotate: -30deg;
+  top: 64%;
+  left: 0%;
+  width: 130%;
+  height: 60%;
+  background-color: red;
 }
